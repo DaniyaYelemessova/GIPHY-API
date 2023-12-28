@@ -1,7 +1,7 @@
 {
-  "name": "project-name",
+  "name": "gif-api",
   "version": "1.0.0",
-  "description": "project description",
+  "description": "gif API returns interesting GIFs depending on the request.",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode=development",

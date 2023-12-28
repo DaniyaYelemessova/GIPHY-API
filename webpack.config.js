@@ -22,7 +22,7 @@ module.exports = {
     new CleanWebpackPlugin(),
     new Dotenv(),
     new HtmlWebpackPlugin({
-      title: 'project name',
+      title: 'GIFs API',
       template: './src/index.html',
       inject: 'body'
     })
