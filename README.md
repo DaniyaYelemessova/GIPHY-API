@@ -49,7 +49,7 @@ To get started, you'll need to clone this repository to your local machine. Open
 API_KEY=your-api-key-here
 
 ```
-Now that you have set up your API key, you can run the application:
+### Now that you have set up your API key, you can run the application:
 9. Start a development server with $ npm run start
 10. Linting JS files in the src folder with $ npm run lint
 11. Run tests with Jest using $ npm run test
