@@ -41,18 +41,18 @@ To get started, you'll need to clone this repository to your local machine. Open
 
 ### Setting up the API Key
 
-1. Sign up for an account on [API Provider's Website].
-2. Obtain your API key from the [API Provider's Dashboard].
-3. Create a .env file in the root of your project.
-4. Add your API key to the .env file:
+5. Sign up for an account on [API Provider's Website].
+6. Obtain your API key from the [API Provider's Dashboard].
+7. Create a .env file in the root of your project.
+8. Add your API key to the .env file:
 ```
 API_KEY=your-api-key-here
 
 ```
 Now that you have set up your API key, you can run the application:
-* Start a development server with $ npm run start
-* Linting JS files in the src folder with $ npm run lint
-* Run tests with Jest using $ npm run test
+9. Start a development server with $ npm run start
+10. Linting JS files in the src folder with $ npm run lint
+11. Run tests with Jest using $ npm run test
 
 </details>
 
